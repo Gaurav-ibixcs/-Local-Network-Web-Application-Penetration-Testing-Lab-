@@ -1,0 +1,11 @@
+Captured Traffic:
+HTTP and DNS packets
+
+Observation:
+Credentials transmitted in plain text over HTTP.
+
+Risk:
+High
+
+Fix:
+Use HTTPS and encrypt sensitive data.
