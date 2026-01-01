@@ -1,0 +1,23 @@
+Pentesting-Lab-Project/
+│
+├── README.md
+│
+├── lab-setup/
+│   ├── tools-installed.txt
+│   └── network-diagram.png
+│
+├── scans/
+│   ├── nmap-scan.txt
+│   └── vulnerability-scan.txt
+│
+├── exploitation/
+│   ├── metasploit-notes.txt
+│
+├── web-testing/
+│   ├── burpsuite-findings.txt
+│
+├── traffic-analysis/
+│   ├── wireshark-analysis.txt
+│
+└── report/
+    └── Final-Pentest-Report.md
